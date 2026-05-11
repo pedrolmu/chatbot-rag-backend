@@ -1,4 +1,7 @@
 # Back-end RAG - Generative AI Advanced Net
+## Repositório Oficial
+
+[GitHub - chatbot-rag-backend](https://github.com/pedrolmu/chatbot-rag-backend)
 
 **Aluno:** Pedro Leal Murad  
 **RM:** 565460  
